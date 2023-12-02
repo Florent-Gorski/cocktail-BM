@@ -1,66 +1,51 @@
-# cocktail-BM
-a small site for cocktail referencing
+<h1 align="center">Bienvenue sur cocktail-bm 👋</h1>
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
+  <a href="https://github.com/Florent-Gorski/cocktail-BM#readme" target="_blank">
+    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
+  </a>
+  <a href="https://github.com/Florent-Gorski/cocktail-BM/graphs/commit-activity" target="_blank">
+    <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
+  </a>
 
-cocktail-BM is a website dedicated to discovering delicious cocktails. it is developed using HTML, CSS, React, and MySQL
-to provide a smooth and interactive user experience.
+</p>
 
-## Technologies Used
--HTML
--CSS
--React
--MySQL
--JavaScript
+### 🏠 [Homepage](https://github.com/Florent-Gorski/cocktail-BM#readme)
 
-## Instalation
+### ⚙️ Technologies
 
-1. Clone the repository:
+[![skills](https://skillicons.dev/icons?i=html,css,git,github,js,react,mysql)](#)
 
-2. ```
-3. git clone https://github.com/FlorentGorski/cocktail-BM.git
-4. ```
+### Install
 
-5. Install the dependencies:
+```sh
+npm install
+```
 
-6. ```
-7. cd cocktail-BM
-8. npm install
-9. ```
+### Usage
 
-10. Configue the MySQL database:
-   
-     - Create a new MySQL database for the project.
-     - import the `database.sql` file into you
-     - MySQL database.
+```sh
+npm run dev
+```
 
-11. Configure the database connection information:
+## Auteur
 
-12. Rename the `.env.example` file to `.env` file with your datase connection information.
+👤 **Florent Gorski**
 
-13. Start the development serveur:
+-   GitHub: [@Florent-Gorski](https://github.com/Florent-Gorski)
 
-14. ```
-    npm start
-    ```
+## Contributeur
 
-15. Access the site in your brwser at `http://localhost:3000`.
+-   GitHub: [@GorskiAnthony](https://github.com/GorskiAnthony)
 
-    ## Features
+## 🤝 Contributing
 
-    - Bowse the list of cocktails
-    - Search for cocktails by name or ingredient
-    - display details of a specific cocktail
-    - Add new cocktails to the database
-    - Edit or delete existing cocktails
+Les contributions, les problèmes et les demandes de fonctionnalités sont les bienvenus !<br />N'hésitez pas à consulter la page des [issues](https://github.com/Florent-Gorski/cocktail-BM/issues).
 
-16. ## Project Structure
+## Affichez votre soutien
 
-    - The `src` folder contains the React project source files.
-    - The `public` folder contains public files such as the HTML index.
-    - The `database` folder contains the SQL file for creating the database.
+## Donnez un ⭐️ si ce projet vous a aidé !
 
-17.  ## Contribution
+### 🗃️ Version
 
-18.  Fork the repository.
-19.  create a new branch: `git push origin my-feature`.
-20.  Submit a pull request.
-
+-   **v0.1.0** - Initial commit
