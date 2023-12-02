@@ -1,0 +1,11 @@
+.frame {
+	display: flex;
+	height: 100vh;
+	flex-direction: column;
+}
+
+.main {
+	width: 90%;
+	padding-top: 3rem;
+	margin: 0 auto;
+}
